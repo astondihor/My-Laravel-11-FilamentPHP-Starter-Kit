@@ -1,0 +1,8 @@
+@use "tailwindcss/base";
+@forward "./custom-base-styles.scss";
+
+@use "tailwindcss/components";
+@forward "./custom-components.scss";
+
+@use "tailwindcss/utilities";
+@forward "./custom-utilities.scss";
